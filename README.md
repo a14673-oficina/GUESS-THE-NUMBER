@@ -3,7 +3,7 @@ Portugueses (Português Portugal)
 
 ## **Visão geral do jogo**
 
-O Guess the number é um jogo, onde o jogador tenta uma acertar o número aliatorio da IA.
+O Guess the number é um jogo, onde o jogador tenta acertar o número aliatorio da IA.
 
 **Onde surgiu a ideia para o jogo.**
 
